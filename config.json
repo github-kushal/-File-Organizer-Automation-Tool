@@ -1,0 +1,33 @@
+{
+    "categories": {
+        "Documents": [
+            ".pdf",
+            ".doc",
+            ".docx",
+            ".txt"
+        ],
+        "Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".webp"
+        ],
+        "Videos": [
+            ".mp4",
+            ".mkv",
+            ".mov",
+            ".avi"
+        ],
+        "Archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz"
+        ]
+    },
+    "create_empty_folders": true,
+    "handle_duplicates": "rename",
+    "log_file": "organizer.log"
+}
